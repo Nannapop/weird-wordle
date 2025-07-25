@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weird-wordle/static/css/main.aba07d1d.css",
+    "main.js": "/weird-wordle/static/js/main.378f1dde.js",
+    "static/js/453.99cb5cec.chunk.js": "/weird-wordle/static/js/453.99cb5cec.chunk.js",
+    "index.html": "/weird-wordle/index.html",
+    "main.aba07d1d.css.map": "/weird-wordle/static/css/main.aba07d1d.css.map",
+    "main.378f1dde.js.map": "/weird-wordle/static/js/main.378f1dde.js.map",
+    "453.99cb5cec.chunk.js.map": "/weird-wordle/static/js/453.99cb5cec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aba07d1d.css",
+    "static/js/main.378f1dde.js"
+  ]
+}
